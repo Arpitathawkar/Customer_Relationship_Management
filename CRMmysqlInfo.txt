@@ -1,0 +1,9 @@
+Host -  bk4sdutsk5zme8wpecsq-mysql.services.clever-cloud.com
+
+Username - us8ja2hiucskgior
+
+Password - PyVSO317bhpIejQYCebJ
+
+Port - 3306
+
+Connection url - mysql://us8ja2hiucskgior:PyVSO317bhpIejQYCebJ@bk4sdutsk5zme8wpecsq-mysql.services.clever-cloud.com:3306/bk4sdutsk5zme8wpecsq
